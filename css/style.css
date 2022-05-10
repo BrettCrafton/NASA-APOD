@@ -1,0 +1,98 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+
+/* ********************************* */
+/* Background video */
+/* ********************************* */
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+main{
+  position: relative;
+  height: 100vh;
+  text-align: center;
+  color: white;
+}
+
+section{
+  padding: 1%;
+}
+
+h1, #name{
+  text-align: center;
+}
+
+/* Input container */
+#inputContainer, span{
+  display: flex;
+  justify-content: center;
+}
+
+/* Media container */
+#mediaInput, #mediaInput *{
+  display: flex;
+  justify-content: center;
+}
+
+
+/* Hidden classes */
+.hidden{
+  display: none;
+}
+
+/* Today button */
+#todayButton{
+  margin-left: 10px;
+}
+
+/* Links */
+.links{
+     padding: 4px;
+     background-color: rgba(0, 0, 0, .9);
+     border-radius:  5px 0 0 5px;     
+     position: fixed;
+     bottom: 0;
+     right: 0;
+}
+.links *{
+     display: flex;
+     justify-content: center;
+     align-items: flex-end;
+     color: #a2a2a2;
+     width: fit-content;
+     text-decoration: none;
+}
+.icons *{
+     padding: 0 2% 0 2%;
+     font-size: 20px;
+}
+.links a:hover {
+     color: #49bf9d;
+     text-decoration: none;
+}
