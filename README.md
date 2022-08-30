@@ -35,6 +35,8 @@ Includes brief discription of image and includes date at top of site.
 
 ## Other Projects:
 
+**You Can't Afford Rent:** https://github.com/BrettCrafton/You-Cant-Afford-Rent
+
 **Cocktail Recipes:** https://github.com/BrettCrafton/Cocktail-Recipes
 
 **Rick and Morty Parasite Detector:** https://github.com/BrettCrafton/Rick-and-Morty-Parasite-Detector
