@@ -35,6 +35,9 @@ Includes brief discription of image and includes date at top of site.
 
 ## Other Projects:
 
+**Lost But Found:** https://github.com/BrettCrafton/lost-but-found
+<a href="https://bc-lost-but-found.herokuapp.com/success-stories" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/lost-but-found-small.gif?raw=true" alt="project example"/> </a>
+
 **You Can't Afford Rent:** https://github.com/BrettCrafton/You-Cant-Afford-Rent
 <a href="https://you-cant-afford-rent.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/you%20cant%20afford%20rent%20gif.gif?raw=true" alt="project example" width="600"/> </a>
 
